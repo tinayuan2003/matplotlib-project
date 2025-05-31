@@ -1,6 +1,1 @@
 test git pull, add
-# this is just a blank file for git workshop
-
-# git is for version control, git pull, git add, git commit, git push
-
-# git will request the user to connect to gitHub
