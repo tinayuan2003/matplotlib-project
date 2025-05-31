@@ -1,0 +1,7 @@
+{
+"MLS_Number": R12345,
+"Address": "1234 bcit road, Burnaby, R3E 3E4, BC",
+"owners_name": "Tina Louo",
+"bedrooms_number": "4",
+"desc": "4 bedrooms"
+}
